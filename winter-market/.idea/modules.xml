@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/winter-market/api/api.iml" filepath="$PROJECT_DIR$/winter-market/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/winter-market/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/cart-service/cart-service.iml" filepath="$PROJECT_DIR$/winter-market/cart-service/cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/core-service/core-service.iml" filepath="$PROJECT_DIR$/winter-market/core-service/core-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/front-service/front-service.iml" filepath="$PROJECT_DIR$/winter-market/front-service/front-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/winter-market/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/winter-market/winter-market.iml" filepath="$PROJECT_DIR$/winter-market/winter-market.iml" />
+    </modules>
+  </component>
+</project>
